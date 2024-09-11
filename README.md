@@ -38,7 +38,7 @@ python3 test_api_hub.py
 ### Автор проекта:
 Павел Филиппов
 
-[Вверх]()
+[Вверх](https://github.com/pgphil86/test_api_hub?tab=readme-ov-file#тестовое-задание---test_api_hub)
 
 # The test task is "test_api_hub".
 
@@ -80,4 +80,4 @@ python3 test_api_hub.py
 ### Author of the project:
 Pavel Filippov
 
-[Up]()
+[Up](https://github.com/pgphil86/test_api_hub?tab=readme-ov-file#тестовое-задание---test_api_hub)
