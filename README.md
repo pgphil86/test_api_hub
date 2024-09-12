@@ -60,7 +60,7 @@ git@github.com:pgphil86/test_api_hub.git
 ```
 cd test_api_hub
 ```
-Clone the repository and go to it on the command line:
+Create and activate a virtual environment:
 ```
 python -m venv venv
 ```
